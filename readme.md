@@ -22,7 +22,7 @@ LEVEL16 can be downloaded at Prof. Robert J. Le Roy's website [http://scienide2.
 #### Manual of LEVEL
 Le Roy, R. J. (2017). LEVEL: A computer program for solving the radial Schrödinger equation for bound and quasibound levels. Journal of Quantitative Spectroscopy and Radiative Transfer, 186, 167–178. [https://doi.org/10.1016/j.jqsrt.2016.05.028](https://doi.org/10.1016/j.jqsrt.2016.05.028)
 
-Supplementary Material: [http://scienide2.uwaterloo.ca/~rleroy/LEVEL16/Appendices.pdf](Supplementary Material)
+Supplementary Material: [http://scienide2.uwaterloo.ca/~rleroy/LEVEL16/Appendices.pdf](http://scienide2.uwaterloo.ca/~rleroy/LEVEL16/Appendices.pdf)
 
 
 ### 2. Build the LEVEL program by gfortran or flang.
